@@ -1,5 +1,5 @@
 body {
-  background-color: #eee;
+  background-color: #fe0;
   margin: 45px 150px;
 }
 
@@ -15,4 +15,8 @@ header img.logo {
 
 header h1 {
   line-height: 70px;
+}
+
+.content header{
+  color: #333 !important;
 }
