@@ -1,0 +1,18 @@
+body {
+  background-color: #eee;
+  margin: 45px 150px;
+}
+
+header {
+  margin-bottom: 50px;
+  color: #e90010;
+}
+
+header img.logo {
+  float: left;
+  margin-right: 20px;
+}
+
+header h1 {
+  line-height: 70px;
+}
