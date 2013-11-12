@@ -16,3 +16,7 @@ header img.logo {
 header h1 {
   line-height: 70px;
 }
+
+.content header{
+  color: #333 !important;
+}
